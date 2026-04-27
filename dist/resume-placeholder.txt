@@ -1,0 +1,3 @@
+Resume placeholder
+
+Replace this file with Jatin Arora's final resume PDF and update the link in `src/components/HeroSection.jsx` if needed.
